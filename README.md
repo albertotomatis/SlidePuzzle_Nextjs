@@ -2,6 +2,6 @@
 ### 🔸 &nbsp;Gioco slide puzzle con mischia tessere e conteggio mosse
 ## 🖥️ &nbsp;Tech Stack
 ### 
-- Next.jsant
+- Next.js
 ## 👇🏻 &nbsp;Anteprima
 ![Anteprima Immagine](anteprima.png)
